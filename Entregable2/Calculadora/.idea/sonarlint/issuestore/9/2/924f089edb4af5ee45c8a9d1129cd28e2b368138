@@ -1,0 +1,20 @@
+
+R
+java:S1854	"5Remove this useless assignment to local variable "s".(ÇñÚï8“êĞ1
+C
+java:S1481	"&Remove this unused "s" local variable.(ÇñÚï8šêĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ—Ï£ùÿÿÿÿ8œêĞ1
+K
+java:S1481".Remove this unused "operacion" local variable.(Œìö8ß¦„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÈãıÿÿÿÿ8êĞ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÄ­,8êĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚±Ë±ıÿÿÿÿ8ŸêĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Êú×¬ıÿÿÿÿ8ŸêĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İÁÂòşÿÿÿÿ8 êĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úŠÛÍøÿÿÿÿ8 êĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œô–Çøÿÿÿÿ8å¦„1
+>	java:S131""Add a default case to this switch.(ìè²ë8êĞ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ç¦„1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8è¦„1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8è¦„1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8é¦„1

@@ -1,0 +1,20 @@
+
+|
+java:S1192I"ZDefine a constant instead of duplicating this literal "Disponible lahabitacion #" 3 times.(èÿÀ’şÿÿÿÿ8ĞÚÒ‹1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÄ€ü8ÕÚÒ‹1
+]	java:S125"<This block of commented-out lines of code should be removed.(øáÕãıÿÿÿÿ8êÚÒ‹1
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ÍÛàô8îÚÒ‹1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(èÿÀ’şÿÿÿÿ8ïÚÒ‹1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(æ°¶•8ïÚÒ‹1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(èÿÀ’şÿÿÿÿ8ğÚÒ‹1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¶æùÿÿÿÿ8ñÚÒ‹1
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(èÿÀ’şÿÿÿÿ8ñÚÒ‹1
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(†ÖÖıÿÿÿÿ8óÚÒ‹1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(¬ë¿ª8ôÚÒ‹1
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(Éüî´8ìÆÕ‹1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(¬ë¿ª8íÆÕ‹1
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(áƒÁûÿÿÿÿ8ÊêÕ‹1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(¬ë¿ª8ËêÕ‹1
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(×ªœ†ùÿÿÿÿ8ºèâ‹1
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¬ë¿ª8»èâ‹1
+]	java:S125z"<This block of commented-out lines of code should be removed.(åÃåıÿÿÿÿ8öÚÒ‹1

@@ -1,0 +1,43 @@
+
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™è¶Ñıÿÿÿÿ
+C
+java:S16045"(Make this anonymous inner class a lambda(¸µåúÿÿÿÿ
+C
+java:S1604<"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+>
+java:S1604B"(Make this anonymous inner class a lambda(üŞÖÓ
+D
+java:S1604Ù"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1450á"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+r
+java:S1450ä"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450å"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450æ"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450ç"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450è"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+A
+java:S1172–"*Remove this unused method parameter "evt".(ï¦ˆ·
+N
+java:S1135—"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172š"*Remove this unused method parameter "evt".(‚À‡ä
+N
+java:S1135œ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(œĞàõùÿÿÿÿ
+@
+java:S1172¸"*Remove this unused method parameter "evt".(è¿ŒD
+N
+java:S1135¹"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197¿"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147Î"ECombine this catch with the one at line 204, which has the same body.(¨¦Š½
+\
+java:S2147Ğ"ECombine this catch with the one at line 206, which has the same body.(ã€ 
+[
+java:S2147Ò"ECombine this catch with the one at line 208, which has the same body.(ñÎ¯%

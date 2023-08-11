@@ -1,9 +1,12 @@
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.idea/sonarlint/
+.idea/sonarlint/
 .apt_generated
 .classpath
 .factorypath

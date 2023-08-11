@@ -1,0 +1,73 @@
+
+=
+java:S1604<"(Make this anonymous inner class a lambda(òôÌY
+C
+java:S1604E"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+>
+java:S1604K"(Make this anonymous inner class a lambda(àô»š
+>
+java:S1604Q"(Make this anonymous inner class a lambda(ŞŠ“©
+>
+java:S1604X"(Make this anonymous inner class a lambda(ÿóÎ×
+D
+java:S1604’"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1450›"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+n
+java:S1450œ"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+r
+java:S1450Ÿ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450 "VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450¡"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450¢"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450£"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450¤"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+P
+java:S1161-":Add the "@Override" annotation above this method signature(Ç’æÌ
+U
+java:S11610":Add the "@Override" annotation above this method signature(¦³±ÿÿÿÿÿ
+F
+java:S1172·"*Remove this unused method parameter "evt".(†°óéÿÿÿÿÿ
+N
+java:S1135¸"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172»"*Remove this unused method parameter "evt".(‚À‡ä
+N
+java:S1135¼"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(ïş»Æûÿÿÿÿ
+A
+java:S1172×"*Remove this unused method parameter "evt".(—¨úù
+N
+java:S1135Ø"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Û"*Remove this unused method parameter "evt".(ëğş®
+N
+java:S1135Ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ß"*Remove this unused method parameter "evt".(ê‚
+I
+java:S1135à"2Complete the task associated to this TODO comment.(ßêöã
+@
+java:S1172å"*Remove this unused method parameter "evt".(³à¿h
+W	java:S125ç"<This block of commented-out lines of code should be removed.(Ü«‰øÿÿÿÿ
+N
+java:S1135æ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ë"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+N
+java:S1135ì"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+e
+java:S3252ğ"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ôÎ©øÿÿÿÿ
+F
+java:S1197ø"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147‡"ECombine this catch with the one at line 261, which has the same body.(¨¦Š½
+\
+java:S2147‰"ECombine this catch with the one at line 263, which has the same body.(ã€ 
+[
+java:S2147‹"ECombine this catch with the one at line 265, which has the same body.(ñÎ¯%
